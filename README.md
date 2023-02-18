@@ -3,6 +3,8 @@ Protótipo de um jogo estilo Sokoban, versão pré-alpha.
 
 #### Projeto independente, pode realizar o download para usar em estudos. Não utilizar para fins lucrativos o não cumprimento resultará em efeitos legais.
 
+<a href="https://arycaramez.github.io/SokobanMrBeaverPreAlpha/">Clique aqui para jogar!</a>
+
 ## Sobre o jogo:
 - O personagem principal é um castor.
 - O objetivo do jogador é levar os troncos aos locais indicados.
