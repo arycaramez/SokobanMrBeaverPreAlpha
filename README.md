@@ -6,11 +6,11 @@
 
 Protótipo de um jogo estilo Sokoban, versão pré-alpha.
 
-#### Projeto independente, pode realizar o download para usar em estudos. Não utilizar para fins lucrativos o não cumprimento resultará em efeitos legais.
-
 <a href="https://arycaramez.github.io/SokobanMrBeaverPreAlpha/">Clique aqui para jogar!</a>
 
 Obs: O jogo pode estar com uma lentidão em algumas partes por estar rodando em WebGL que não é a plataforma idealizada para o seu desenvolvimento.
+
+#### Projeto independente, pode realizar o download para usar em estudos. Não utilizar para fins lucrativos o não cumprimento resultará em efeitos legais.
 
 ## Sobre o jogo:
 - O personagem principal é um castor.
