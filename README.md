@@ -1,4 +1,4 @@
-# SokobanMrBeaverProject
+# Sokoban, Mr Beaver - Versão Alpha
 Protótipo de um jogo estilo Sokoban, versão pré-alpha.
 
 #### Projeto independente, pode ser usado para estudos, não utilizar para fins lucrativos, o não cumprimento resultará em efeitos legais.
