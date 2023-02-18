@@ -1,4 +1,9 @@
 # Sokoban, Mr Beaver - Versão Pré-Alpha
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/37397920/219828558-4f9a9cf8-790d-4baf-a723-77fe3b899360.gif">
+</p>
+
 Protótipo de um jogo estilo Sokoban, versão pré-alpha.
 
 #### Projeto independente, pode realizar o download para usar em estudos. Não utilizar para fins lucrativos o não cumprimento resultará em efeitos legais.
