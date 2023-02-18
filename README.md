@@ -15,7 +15,7 @@ Obs: O jogo pode estar com uma lentidão em algumas partes por estar rodando em 
 ## Sobre o jogo:
 - O personagem principal é um castor.
 - O objetivo do jogador é levar os troncos aos locais indicados.
-- Quando essa condição for respeitada o jogo irá criar o próximo nível de jogo.
+- Quando essa condição for respeitada o jogo irá criar o próximo nível de jogo de forma procedural, usando arquivos de texto que guardam o "modelo" de como o mapa deve ser criado, funcionando como uma planta baixa que indica onde os objetos devem estar localizados. Esse sistema também permite a inclusão de novos elementos ao sistema de geração procedural do cenário.
 
 ## Plataformas:
 - Android (futuramente terá uma versão compativel).
