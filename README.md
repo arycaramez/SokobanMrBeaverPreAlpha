@@ -1,4 +1,4 @@
-# Sokoban, Mr Beaver - Versão Alpha
+# Sokoban, Mr Beaver - Versão Pré-Alpha
 Protótipo de um jogo estilo Sokoban, versão pré-alpha.
 
 #### Projeto independente, pode realizar o download para usar em estudos. Não utilizar para fins lucrativos o não cumprimento resultará em efeitos legais.
