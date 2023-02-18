@@ -1,7 +1,7 @@
 # Sokoban, Mr Beaver - Versão Alpha
 Protótipo de um jogo estilo Sokoban, versão pré-alpha.
 
-#### Projeto independente, pode ser usado para estudos, não utilizar para fins lucrativos, o não cumprimento resultará em efeitos legais.
+#### Projeto independente, pode realizar o download para usar em estudos. Não utilizar para fins lucrativos o não cumprimento resultará em efeitos legais.
 
 ## Sobre o jogo:
 - O personagem principal é um castor.
@@ -11,3 +11,9 @@ Protótipo de um jogo estilo Sokoban, versão pré-alpha.
 ## Plataformas:
 - Android (futuramente terá uma versão compativel).
 - PC.
+
+## Observações:
+- As texturas (imagens) que estão no projeto atual estão sobre a licença "Free license", originárias do repositório digital "www.freepik.com/" (Serão alteradas com o tempo).
+
+## Autor:
+- Ary Guilherme Pires Caramez.
